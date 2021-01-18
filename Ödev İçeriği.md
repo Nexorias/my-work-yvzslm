@@ -3,6 +3,8 @@ Internet prog final ödevi
 - Site Yapısı
 - Çalışır Arayüz/Navigasyon
 - Çalışır soru cevap/ doğru yanlış oranı
+
+
 Eksikler
 - Angulara aktarılamadı
 - Javascriptle yazıldı
